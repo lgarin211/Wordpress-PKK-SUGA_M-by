@@ -1,0 +1,133 @@
+
+---Downloaded files---
+The import files for: Shopping Cart Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp2\htdocs\wordpress/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart.wordpress.xml
+Widget file = C:\xampp2\htdocs\wordpress/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-widgets.wie
+Customizer file = C:\xampp2\htdocs\wordpress/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				watch-hand-ring-time-fashion-jewellery-1150644-pxhere.com		" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Cari - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Arsip - No Title - Imported
+Kategori - No Title - Imported
+Meta - No Title - Imported
+
+Top Header Info : 
+
+Teks - No Title - Imported
+
+Advertisement Banner One : 
+
+Gambar - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Produk - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Produk menurut Peringkat - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML Khusus - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Kategori Produk - Product categories - Imported
+Penyaring Produk Aktif - Active filters - Imported
+Saring Produk menurut Harga - Filter by price - Imported
+Produk - Products - Imported
+Awan Tag Produk - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Produk - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Produk - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Produk - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Produk - Products - Imported
+
+Footer Column 1 : 
+
+Teks - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Khusus - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Khusus - Shop Location - Imported
+
+Footer Column 4 : 
+
+Gambar - Download App - Imported
+Gambar - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Produk - Products - Imported
+Teks - No Title - Imported
+Produk - Products - Imported
+Teks - No Title - Imported
+Max Mega Menu - No Title - Imported
+Menu Navigasi - No Title - Imported
+Gambar - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
